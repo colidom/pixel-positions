@@ -1,5 +1,5 @@
 <x-layout>
-    <div class="space-y-10">
+    <div class="space-y-10 mb-6">
         <section class="text-center pt-6">
             <h1 class="font-bold text-4xl">Let's Find You A Great Job</h1>
 
