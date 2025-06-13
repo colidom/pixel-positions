@@ -12,6 +12,12 @@ export default {
         extend: {
             colors: {
                 'black': '#060606'
+            },
+            fontFamily: {
+                sans: ['Hanken Grotesk', ...defaultTheme.fontFamily.sans],
+            },
+            fontSize: {
+                "2xs": ".625rem" //10px
             }
         },
     },
