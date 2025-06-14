@@ -51,7 +51,7 @@ php artisan test
 ## 📚 Créditos
 
 Este proyecto fue desarrollado siguiendo el curso gratuito de Laracasts:
-👉 [30 Days to Learn Laravel 11]('https://laracasts.com/series/30-days-to-learn-laravel-11')
+👉 [30 Days to Learn Laravel 11](https://laracasts.com/series/30-days-to-learn-laravel-11)
 
 ## 📝 Licencia
 
