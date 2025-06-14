@@ -55,4 +55,4 @@ Este proyecto fue desarrollado siguiendo el curso gratuito de Laracasts:
 
 ## 📝 Licencia
 
-Este proyecto está bajo la licencia MIT.
+Este proyecto está bajo la licencia GPL-3.0.
